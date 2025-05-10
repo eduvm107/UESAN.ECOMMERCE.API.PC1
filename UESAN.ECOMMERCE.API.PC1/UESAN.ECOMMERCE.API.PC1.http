@@ -1,0 +1,6 @@
+@UESAN.ECOMMERCE.API.PC1_HostAddress = http://localhost:5249
+
+GET {{UESAN.ECOMMERCE.API.PC1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
